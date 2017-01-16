@@ -26,3 +26,8 @@ Best React.js libraries around the web. Star (⭐️) is next to libraries I per
 - [⭐️ react-treeview](https://github.com/chenglou/react-treeview): Easy, light, flexible tree view made with React.
 - [react-bootstrap-treeview](https://github.com/jonmiles/react-bootstrap-treeview): React.js Tree View for Twitter Bootstrap
 - [react-dnd-treeview](https://github.com/teleport/react-dnd-treeview): React.js tree view component with drag-and-drop support using react-dnd
+
+## Modals
+
+- [modal](https://github.com/Legitcode/modal): a react modal that lets you easily customize the css
+- [react-modal](https://github.com/reactjs/react-modal): Accessible modal dialog component for React.JS
